@@ -12,7 +12,7 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 ## 📂 Archivos disponibles
 | Archivo | Descripción | Imagen |
 |---------|------------|--------|
-| [`printer-anet-a8-2017.cfg`](.CFG/printer-anet-a8-2017.cfg) | Configuración Anet A8 2017 | ![Ver imagen]([https://http2.mlstatic.com/D_NQ_NP_753052-MLA44569706228_012021-O.webp]) |
+| [`printer-anet-a8-2017.cfg`](./printer-anet-a8-2017.cfg) | Configuración Anet A8 2017 | ![Ver imagen]([https://http2.mlstatic.com/D_NQ_NP_753052-MLA44569706228_012021-O.webp]) |
 | [`klipper_corexy.cfg`](./klipper_corexy.cfg) | Configuración para impresoras CoreXY en Klipper | ![Ver imagen](https://via.placeholder.com/100) |
 | [`prusa_mk3.cfg`](./prusa_mk3.cfg) | Configuración optimizada para Prusa MK3 | ![Ver imagen](https://via.placeholder.com/100) |
 
