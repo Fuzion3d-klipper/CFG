@@ -9,12 +9,12 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 🔹 Ajustes específicos para distintos materiales y velocidades.
 🔹 Documentación para facilitar la implementación.
 
-## 📂 Archivos disponibles
 | Archivo | Descripción | Imagen |
 |---------|------------|--------|
-| [`printer-anet-a8-2017.cfg`](CFG/printer-anet-a8-2017.cfg) | Configuración Anet A8 2017 | ![Anet A8](https://http2.mlstatic.com/D_NQ_NP_753052-MLA44569706228_012021-O.webp) |
-| [`klipper_corexy.cfg`](./klipper_corexy.cfg) | Configuración para impresoras CoreXY en Klipper | ![Ver imagen](https://via.placeholder.com/100) |
-| [`prusa_mk3.cfg`](./prusa_mk3.cfg) | Configuración optimizada para Prusa MK3 | ![Ver imagen](https://via.placeholder.com/100) |
+| [`marlin_generic.cfg`](./marlin_generic.cfg) | Configuración base para Marlin | <img src="https://http2.mlstatic.com/D_NQ_NP_753052-MLA44569706228_012021-O.webp" width="100"> |
+| [`klipper_corexy.cfg`](./klipper_corexy.cfg) | Configuración para impresoras CoreXY en Klipper | <img src="https://via.placeholder.com/150" width="100"> |
+| [`prusa_mk3.cfg`](./prusa_mk3.cfg) | Configuración optimizada para Prusa MK3 | <img src="https://via.placeholder.com/150" width="100"> |
+
 
 ## 🔧 ¿Cómo usar estos archivos?
 1. Descarga el archivo **.cfg** correspondiente a tu impresora.
