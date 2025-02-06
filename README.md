@@ -11,16 +11,16 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 
 | Archivo | Maquina | Imagen | Descripcion |
 |---------|------------|--------|-----------|
-| [`printer-anet-a8-2017.cfg`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://http2.mlstatic.com/D_NQ_NP_753052-MLA44569706228_012021-O.webp" width="100"> |
-| [`printer-adimlab-2018.cfg`](CFG/printer-adimlab-2018.cfg) | Adimlab 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/adimlab.jpg" width="100"> |
-| [`printer-alfawise-u30-2018.cfg`](CFG/printer-alfawise-u30-2018.cfg) | AlfaWise U30 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/alfawiseu30.jpg" width="100"> |
-| [`printer-anet-a4-2018.cfg`](CFG/printer-anet-a4-2018.cfg) | Anet A4 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/aneta4.jpg" width="100"> |
-| [`printer-anet-a8-2019.cfg`](CFG/printer-anet-a8-2019.cfg) | Anet A8 2019 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/a82019.jpg" width="100"> |
-| [`printer-anet-e10-2018.cfg`](CFG/printer-anet-e10-2018.cfg) | Anet E10 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/anete10.jpg" width="100"> |
-| [`printer-anet-e16-2019.cfg`](CFG/printer-anet-e16-2019.cfg) | Anet E16 2019 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/anete16.jpg" width="100"> |
-| [`printer-anycubic-4max-2018.cfg`](CFG/printer-anycubic-4max-2018.cfg) | Anycubic 4Max 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="100"> |
-| [`printer-adimlab-2018.cfg`](CFG/printer-adimlab-2018.cfg) | Adimlab 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/adimlab.jpg" width="100"> |
-| [`printer-adimlab-2018.cfg`](CFG/printer-adimlab-2018.cfg) | Adimlab 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/adimlab.jpg" width="100"> |
+| [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://http2.mlstatic.com/D_NQ_NP_753052-MLA44569706228_012021-O.webp" width="100"> |
+| [`Descarga`](CFG/printer-adimlab-2018.cfg) | Adimlab 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/adimlab.jpg" width="100"> |
+| [`Descarga`](CFG/printer-alfawise-u30-2018.cfg) | AlfaWise U30 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/alfawiseu30.jpg" width="100"> |
+| [`Descarga`](CFG/printer-anet-a4-2018.cfg) | Anet A4 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/aneta4.jpg" width="100"> |
+| [`Descarga`](CFG/printer-anet-a8-2019.cfg) | Anet A8 2019 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/a82019.jpg" width="100"> |
+| [`Descarga`](CFG/printer-anet-e10-2018.cfg) | Anet E10 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/anete10.jpg" width="100"> |
+| [`Descarga`](CFG/printer-anet-e16-2019.cfg) | Anet E16 2019 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/anete16.jpg" width="100"> |
+| [`Descarga`](CFG/printer-anycubic-4max-2018.cfg) | Anycubic 4Max 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="100"> |
+| [`Descarga`](CFG/printer-anycubic-4maxpro-2.0-2021.cfg) | Anycubic 4Max Pro 2.0 2021 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4maxpro.jpg" width="100"> |
+| [`Descarga`](CFG/printer-adimlab-2018.cfg) | Adimlab 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/adimlab.jpg" width="100"> |
 
 
 ## 🔧 ¿Cómo usar estos archivos?
