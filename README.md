@@ -20,7 +20,7 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga`](CFG/printer-anet-e16-2019.cfg) | Anet E16 2019 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/anete16.jpg" width="100"> |
 | [`Descarga`](CFG/printer-anycubic-4max-2018.cfg) | Anycubic 4Max 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="100"> |
 | [`Descarga`](CFG/printer-anycubic-4maxpro-2.0-2021.cfg) | Anycubic 4Max Pro 2.0 2021 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4maxpro.jpg" width="100"> |
-| [`Descarga`](CFG/printer-adimlab-2018.cfg) | Adimlab 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/adimlab.jpg" width="100"> |
+| [`Descarga`](CFG/printer-anycubic-i3-mega-2017.cfg) | I3 Mega 2017 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/i3mega2017.jpg" width="100"> |
 
 
 ## 🔧 ¿Cómo usar estos archivos?
