@@ -11,7 +11,7 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 
 | Archivo | Maquina | Imagen | Descripcion |
 |---------|------------|--------|-----------|
-| [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://http2.mlstatic.com/D_NQ_NP_753052-MLA44569706228_012021-O.webp" width="100"> |
+| [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://http2.mlstatic.com/D_NQ_NP_753052-MLA44569706228_012021-O.webp" width="100"> | La Anet A8 (2017) es una impresora 3D económica y popular basada en tecnología FDM. Es una máquina DIY (requiere ensamblaje) con una estructura de acrílico, un volumen de impresión de 220x220x240 mm y compatible con filamentos como PLA, ABS y PETG. Usa el firmware Marlin (actualizable) y es conocida por su gran comunidad y posibilidades de mejora, aunque su diseño original requiere modificaciones para mejorar seguridad y estabilidad.
 | [`Descarga`](CFG/printer-adimlab-2018.cfg) | Adimlab 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/adimlab.jpg" width="100"> |
 | [`Descarga`](CFG/printer-alfawise-u30-2018.cfg) | AlfaWise U30 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/alfawiseu30.jpg" width="100"> |
 | [`Descarga`](CFG/printer-anet-a4-2018.cfg) | Anet A4 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/aneta4.jpg" width="100"> |
