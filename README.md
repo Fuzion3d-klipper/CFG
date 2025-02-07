@@ -10,31 +10,7 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 🔹 Documentación para facilitar la implementación.
 
 
-<table style="display: inline-block; margin-right: 20px;">
-  <tr>
-    <th>Archivo</th>
-    <th>Descripción</th>
-    <th>Imagen</th>
-  </tr>
-  <tr>
-    <td>archivo1.txt</td>
-    <td>Archivo de prueba</td>
-    <td>🖼️</td>
-  </tr>
-</table>
 
-<table style="display: inline-block;">
-  <tr>
-    <th>Archivo</th>
-    <th>Descripción</th>
-    <th>Imagen</th>
-  </tr>
-  <tr>
-    <td>archivo2.txt</td>
-    <td>Otro archivo de prueba</td>
-    <td>🖼️</td>
-  </tr>
-</table>
 
 | Archivo | Maquina | Imagen | Descripcion |
 |---------|------------|--------|-----------|
