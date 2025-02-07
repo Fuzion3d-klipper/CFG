@@ -29,7 +29,17 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga`](CFG/printer-artillery-genius-pro-2022.cfg) | Artillery Genius Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/geniuspro.jpg" width="100"> |
 | [`Descarga`](CFG/printer-artillery-sidewinder-x2-2022.cfg) | Artillery SW x2 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/sdx2.jpg" width="100"> |
 | [`Descarga`](CFG/printer-artillery-sidewinder-x3-plus-2024.cfg) | Artillery SD X3 Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/x3plus.jpg" width="100"> |
-| [`Descarga`](CFG/printer-biqu-b1-se-plus-2022.cfg) | Biqu B1 SE Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/biqub1plus.jpg" width="100"> |
+| [`Descarga`](CFG/printer-biqu-bx-2021.cfg) | Biqu BX | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/bx.jpg" width="100"> |
+| [`Descarga`](CFG/printer-bq-hephestos-2014.cfg) | BQ Prusa i3 Hephestos | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/hep.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-cr10-2017.cfg) | Creality CR-10 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr10.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-cr10-smart-pro-2022.cfg) | Creality CR-10 Smart Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr10sm.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-cr10-v3-2020.cfg) | Creality CR-10 V3 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr10v3.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-cr10mini-2017.cfg) | Creality CR-10 mini | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr10mini.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-cr10s-2017.cfg) | Creality CR-10S | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr10s.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-cr10s-pro-v2-2020.cfg) | CR-10S Pro V2 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr10spro.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-cr20-2018.cfg) | Creality CR-20 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr20.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-cr20-pro-2019.cfg) | Creality CR-20 Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr20pro.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-cr30-2021.cfg) | Creality CR-30 PrintMill | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr30.jpg" width="100"> |
 
 
 ## 🔧 ¿Cómo usar estos archivos?
