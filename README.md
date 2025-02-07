@@ -43,6 +43,14 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga`](CFG/printer-creality-cr20-2018.cfg) | Creality CR-20 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr20.jpg" width="100"> |
 | [`Descarga`](CFG/printer-creality-cr20-pro-2019.cfg) | Creality CR-20 Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr20pro.jpg" width="100"> |
 | [`Descarga`](CFG/printer-creality-cr30-2021.cfg) | Creality CR-30 PrintMill | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr30.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-cr5pro-ht-2022.cfg) | Creality CR5 Pro HT | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr5pro.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-cr6se-2020.cfg) | Creality CR6-SE 2020 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr6se.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-cr6se-2021.cfg) | Creality CR6-SE 2021 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr6se2021.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-ender2-2017.cfg) | Creality Ender 2 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender2.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-ender2pro-2021.cfg) | Creality Ender 2 Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender2pro.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-ender2pro-hc32-2022.cfg) | Creality Ender 2 Pro HC32F460 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender2prohc.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-ender3-2018.cfg) | Creality Ender 3 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender32018.jpg" width="100"> |
+| [`Descarga`](CFG/printer-creality-ender3-s1-2021.cfg) | Creality Ender 3 S1 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender3s1.jpg" width="100"> |
 
 
 ## 🔧 ¿Cómo usar estos archivos?
