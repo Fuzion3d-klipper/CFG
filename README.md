@@ -9,6 +9,33 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 🔹 Ajustes específicos para distintos materiales y velocidades.
 🔹 Documentación para facilitar la implementación.
 
+
+<table style="display: inline-block; margin-right: 20px;">
+  <tr>
+    <th>Archivo</th>
+    <th>Descripción</th>
+    <th>Imagen</th>
+  </tr>
+  <tr>
+    <td>archivo1.txt</td>
+    <td>Archivo de prueba</td>
+    <td>🖼️</td>
+  </tr>
+</table>
+
+<table style="display: inline-block;">
+  <tr>
+    <th>Archivo</th>
+    <th>Descripción</th>
+    <th>Imagen</th>
+  </tr>
+  <tr>
+    <td>archivo2.txt</td>
+    <td>Otro archivo de prueba</td>
+    <td>🖼️</td>
+  </tr>
+</table>
+
 | Archivo | Maquina | Imagen | Descripcion |
 |---------|------------|--------|-----------|
 | [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://http2.mlstatic.com/D_NQ_NP_753052-MLA44569706228_012021-O.webp" width="100"> | 
