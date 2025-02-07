@@ -23,8 +23,8 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga`](CFG/printer-anycubic-i3-mega-2017.cfg) | I3 Mega 2017 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/i3mega2017.jpg" width="100"> |
 | [`Descarga`](CFG/printer-anycubic-kobra-go-2022.cfg) | Anycubyc Kobra Go | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kobrago.jpg" width="100"> |
 | [`Descarga`](CFG/printer-anycubic-kobra-plus-2022.cfg) | Anycubyc Kobra Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kobraplus.jpg" width="100"> |
-| [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="100"> |
-| [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="100"> |
+| [`Descarga`](CFG/printer-anycubic-kossel-2016.cfg) | Anycubic Kossel 2016 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kossel.jpg" width="100"> |
+| [`Descarga`](CFG/printer-anycubic-kossel-plus-2017.cfg) | Anycubic Kossel Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kosselplus.jpg" width="100"> |
 | [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="100"> |
 | [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="100"> |
 | [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="100"> |
