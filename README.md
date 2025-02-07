@@ -25,9 +25,9 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga`](CFG/printer-anycubic-kobra-plus-2022.cfg) | Anycubyc Kobra Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kobraplus.jpg" width="100"> |
 | [`Descarga`](CFG/printer-anycubic-kossel-2016.cfg) | Anycubic Kossel 2016 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kossel.jpg" width="100"> |
 | [`Descarga`](CFG/printer-anycubic-kossel-plus-2017.cfg) | Anycubic Kossel Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kosselplus.jpg" width="100"> |
-| [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="100"> |
-| [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="100"> |
-| [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="100"> |
+| [`Descarga`](CFG/printer-anycubic-vyper-2021.cfg) | Anycubic Vyper | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/vyper.jpg" width="100"> |
+| [`Descarga`](CFG/printer-artillery-genius-pro-2022.cfg) | Artillery Genius Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/geniuspro.jpg" width="100"> |
+| [`Descarga`](CFG/printer-artillery-sidewinder-x2-2022.cfg) | Artillery SW x2 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/sdx2.jpg" width="100"> |
 | [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="100"> |
 | [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="100"> |
 
