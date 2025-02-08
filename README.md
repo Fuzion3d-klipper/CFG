@@ -1,4 +1,4 @@
-<div align="center"> # 🖨️ Configuraciones de Impresora 3D
+# 🖨️ Configuraciones de Impresora 3D
 
 ## 📌 Descripción
 Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aquí encontrarás archivos de configuración optimizados para diferentes modelos, firmwares y necesidades de impresión. Cada archivo ha sido probado para garantizar estabilidad y rendimiento en la impresión.
@@ -13,7 +13,7 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 🔹 Documentación para facilitar la implementación.
 
 
-
+<div align="center">
 
 | Archivo | Maquina | Imagen | Descripcion |
 |---------|--------|----------|--------------|
@@ -55,7 +55,7 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga`](CFG/printer-creality-ender3-2018.cfg) | Creality Ender 3 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender32018.jpg" width="100"> |
 | [`Descarga`](CFG/printer-creality-ender3-s1-2021.cfg) | Creality Ender 3 S1 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender3s1.jpg" width="100"> |
 
-
+</div>
 ## 🔧 ¿Cómo usar estos archivos?
 1. Descarga el archivo **.cfg** correspondiente a tu impresora.
 2. Cópialo en la ubicación adecuada según tu firmware:
@@ -66,7 +66,7 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 
 ## 📢 Contribuciones
 
-</div>
+
 Si tienes una configuración optimizada que quieras compartir, ¡envía un **Pull Request**! Todas las contribuciones son bienvenidas. 🛠️💡
 
 ## 📜 Licencia
