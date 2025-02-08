@@ -5,8 +5,11 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 
 ## 🛠️ ¿Qué encontrarás aquí?
 🔹 Archivos **.cfg** para distintas impresoras 3D y firmwares.
+
 🔹 Configuraciones optimizadas para mejorar la calidad de impresión.
+
 🔹 Ajustes específicos para distintos materiales y velocidades.
+
 🔹 Documentación para facilitar la implementación.
 
 
