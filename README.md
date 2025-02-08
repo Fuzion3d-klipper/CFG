@@ -1,4 +1,4 @@
-# 🖨️ Configuraciones de Impresora 3D
+<div align="center"> # 🖨️ Configuraciones de Impresora 3D
 
 ## 📌 Descripción
 Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aquí encontrarás archivos de configuración optimizados para diferentes modelos, firmwares y necesidades de impresión. Cada archivo ha sido probado para garantizar estabilidad y rendimiento en la impresión.
@@ -65,6 +65,8 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 4. Sube el archivo a tu impresora y reinicia.
 
 ## 📢 Contribuciones
+
+</div>
 Si tienes una configuración optimizada que quieras compartir, ¡envía un **Pull Request**! Todas las contribuciones son bienvenidas. 🛠️💡
 
 ## 📜 Licencia
