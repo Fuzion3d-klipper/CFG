@@ -9,7 +9,7 @@ El tipo de archivo a flashear depende de la arquitectura de la placa:
 # Cómo flashear el firmware en la impresora 3D
 
 ## Requisitos previos
-1. **Tener Klipper compilado**: Ya debes haber generado el firmware para tu placa desde Klipper.
+1. **Archivo firmware.bin/.hex**: Que se encuentra en la carpeta "Fimware" en este repositorio.
 2. **Una tarjeta microSD (si aplica)** o conexión serial para flasheo directo.
 3. **Software de flasheo** (en caso de que no se use una microSD), como `avrdude`, `dfu-util` o `bossac`, dependiendo de la placa.
 
@@ -37,8 +37,8 @@ Si la placa soporta DFU (Device Firmware Update), se puede usar `dfu-util`.
    ```
 4. Espera a que el proceso termine y reinicia la impresora.
 
-### 3. Flasheo con `avrdude` (para placas AVR como Arduino Mega 2560)
-Para placas basadas en ATmega2560, se usa `avrdude` para flashear el firmware.
+### 3. Flasheo con `avrdude` (para placas AVR como Arduino Mega 2560 Y familia ATMega)
+Para placas basadas en ATmega, se usa `avrdude` para flashear el firmware.
 
 #### Pasos:
 1. Conecta la impresora a la PC mediante USB.
@@ -70,6 +70,11 @@ Para comprobar que el firmware ha sido flasheado correctamente y que Klipper est
    cat /tmp/klippy.log
    ```
 4. Si todo está correcto, configura `printer.cfg` y reinicia Klipper.
+
+
+Nota: En algunas ocasiones, es necesario cambiar el nombre del archivo firmware.bin a un nombre diferente, 
+para no crear conflicto con anteriores archivos flasheados.
+
 
 Con estos pasos, tu impresora 3D debería estar lista para ejecutar Klipper. ¡Disfruta de las mejoras en velocidad y precisión que ofrece este firmware!
 
