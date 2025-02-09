@@ -15,7 +15,7 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 
 <div align="center">
 
-| Archivo | Maquina | Imagen | Descripcion |
+| Archivo | Maquina | Imagen | Firmware |
 |---------|--------|----------|--------------|
 | [`Descarga`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://http2.mlstatic.com/D_NQ_NP_753052-MLA44569706228_012021-O.webp" width="125"> | 
 | [`Descarga`](CFG/printer-adimlab-2018.cfg) | Adimlab 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/adimlab.jpg" width="125"> | 
@@ -33,8 +33,9 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga`](CFG/printer-anycubic-kossel-plus-2017.cfg) | Anycubic Kossel Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kosselplus.jpg" width="125"> |
 | [`Descarga`](CFG/printer-anycubic-vyper-2021.cfg) | Anycubic Vyper | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/vyper.jpg" width="125"> |
 | [`Descarga`](CFG/printer-artillery-genius-pro-2022.cfg) | Artillery Genius Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/geniuspro.jpg" width="125"> |
+| [`Descarga`](CFG/artillery_hornet_cfg.cfg) | Artillery Hornet | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/hornet.jpg" width="125"> |
 | [`Descarga`](CFG/printer-artillery-sidewinder-x2-2022.cfg) | Artillery SW x2 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/sdx2.jpg" width="125"> |
-| [`Descarga`](CFG/printer-artillery-sidewinder-x3-plus-2024.cfg) | Artillery SD X3 Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/x3plus.jpg" width="125"> |
+| [`Descarga`](CFG/printer-artillery-sidewinder-x3-plus-2024.cfg) | Artillery SD X3 Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/x3plus.jpg" width="125"> | [`Descarga`](Firmware/artilleryhornet.bin)
 | [`Descarga`](CFG/printer-biqu-bx-2021.cfg) | Biqu BX | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/bx.jpg" width="125"> |
 | [`Descarga`](CFG/printer-bq-hephestos-2014.cfg) | BQ Prusa i3 Hephestos | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/hep.jpg" width="125"> |
 | [`Descarga`](CFG/printer-creality-cr10-2017.cfg) | Creality CR-10 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/cr10.jpg" width="125"> |
