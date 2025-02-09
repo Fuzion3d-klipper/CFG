@@ -9,7 +9,7 @@ El tipo de archivo a flashear depende de la arquitectura de la placa:
 # Cómo flashear el firmware en la impresora 3D
 
 ## Requisitos previos
-1. **Archivo firmware.bin/.hex**: Que se encuentra en la carpeta "Fimware" en este repositorio.
+1. **Archivo firmware.bin/.hex**: Que se encuentra en la carpeta "Fimware" en este repositorio (renombrar si es necesario).
 2. **Una tarjeta microSD (si aplica)** o conexión serial para flasheo directo.
 3. **Software de flasheo** (en caso de que no se use una microSD), como `avrdude`, `dfu-util` o `bossac`, dependiendo de la placa.
 
