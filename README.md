@@ -60,7 +60,6 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga CFG`](CFG/printer-creality-ender3-v2-neo-2022.cfg) | Ender 3 V2 Neo | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/v2neo.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/firmwarev2neo.bin)
 | [`Descarga CFG`](CFG/printer-creality-ender3max-2021.cfg) | Ender 3 Max | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/3max.jpg" width="125"> |  [`pronto`](pronto)
 | [`Descarga CFG`](CFG/printer-creality-ender3pro-2020.cfg) | Ender 3 Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/3pro.jpg" width="125"> |  [`pronto`](pronto)
-
 | [`Descarga CFG`](CFG/anycubic-kobra-max-trygorilla.cfg) | Anycubic Kobra Max Trygorilla | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kobramax.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/anycubic-kobra-max-trygorilla.bin)
 | [`Descarga CFG`](CFG/printer-creality-ender3pro-2020.cfg) | Ender 3 Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/3pro.jpg" width="125"> |  [`pronto`](pronto)
 | [`Descarga CFG`](CFG/printer-creality-ender3pro-2020.cfg) | Ender 3 Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/3pro.jpg" width="125"> |  [`pronto`](pronto)
