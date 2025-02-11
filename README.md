@@ -55,6 +55,11 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga CFG`](CFG/printer-creality-ender2pro-hc32-2022.cfg) | Creality Ender 2 Pro HC32F460 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender2prohc.jpg" width="125"> |
 | [`Descarga CFG`](CFG/printer-creality-ender3-2018.cfg) | Creality Ender 3 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender32018.jpg" width="125"> |
 | [`Descarga CFG`](CFG/printer-creality-ender3-s1-2021.cfg) | Creality Ender 3 S1 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender3s1.jpg" width="125"> |
+| [`Descarga CFG`](CFG/printer-creality-ender3-v2-2020.cfg) | Creality Ender 3 V2 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender3v2.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/FIRMWAREender3v2.bin)
+| [`Descarga CFG`](CFG/artillery_hornet_cfg.cfg) | Artillery Hornet | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/hornet.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/artilleryhornet.bin)
+| [`Descarga CFG`](CFG/artillery_hornet_cfg.cfg) | Artillery Hornet | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/hornet.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/artilleryhornet.bin)
+| [`Descarga CFG`](CFG/artillery_hornet_cfg.cfg) | Artillery Hornet | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/hornet.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/artilleryhornet.bin)
+| [`Descarga CFG`](CFG/artillery_hornet_cfg.cfg) | Artillery Hornet | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/hornet.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/artilleryhornet.bin)
 
 </div>
 ## 🔧 ¿Cómo usar estos archivos?
