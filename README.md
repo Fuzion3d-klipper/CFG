@@ -56,11 +56,10 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga CFG`](CFG/printer-creality-ender3-2018.cfg) | Creality Ender 3 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender32018.jpg" width="125"> |
 | [`Descarga CFG`](CFG/printer-creality-ender3-s1-2021.cfg) | Creality Ender 3 S1 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender3s1.jpg" width="125"> |
 | [`Descarga CFG`](CFG/printer-creality-ender3-v2-2020.cfg) | Creality Ender 3 V2 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender3v2.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/FIRMWAREender3v2.bin)
-| [`Descarga CFG`](CFG/artillery_hornet_cfg.cfg) | Artillery Hornet | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/hornet.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/artilleryhornet.bin)
-| [`Descarga CFG`](CFG/artillery_hornet_cfg.cfg) | Artillery Hornet | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/hornet.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/artilleryhornet.bin)
-| [`Descarga CFG`](CFG/artillery_hornet_cfg.cfg) | Artillery Hornet | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/hornet.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/artilleryhornet.bin)
-| [`Descarga CFG`](CFG/artillery_hornet_cfg.cfg) | Artillery Hornet | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/hornet.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/artilleryhornet.bin)
-
+| [`Descarga CFG`](CFG/printer-creality-ender3-s1plus-2022.cfg) | Ender 3 S1 Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/s1plus.jpg" width="125"> |  [`pronto`](pronto)
+| [`Descarga CFG`](CFG/printer-creality-ender3-v2-neo-2022.cfg) | Ender 3 V2 Neo | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/v2neo.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/firmwarev2neo.bin)
+| [`Descarga CFG`](CFG/printer-creality-ender3max-2021.cfg) | Ender 3 Max | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/3max.jpg" width="125"> |  [`pronto`](pronto)
+| [`Descarga CFG`](CFG/printer-creality-ender3pro-2020.cfg) | Ender 3 Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/3pro.jpg" width="125"> |  [`pronto`](pronto)
 </div>
 ## 🔧 ¿Cómo usar estos archivos?
 1. Descarga el archivo **.cfg** correspondiente a tu impresora.
