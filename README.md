@@ -17,13 +17,13 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 
  ## 🛠️ Descripcion del siguiente listado LEER
 
-🔹 Archivos **.cfg** para distintas impresoras 3D, estos deben ser renombrado a "printer.cfg" y colocarlos en su lugar
+🔹 **ARCHIVO**: Archivos **.cfg** para distintas impresoras 3D, estos deben ser renombrado a "printer.cfg" y colocarlos en su lugar
 
-🔹 Nombre y modelo de maquina, guiate con esto para encontrar tu maquina
+🔹 **MAQUINA**: Nombre y modelo de maquina, guiate con esto para encontrar tu maquina
 
-🔹 Imagen ilustrativa, puedes guiarte con la imagen para saber sobre tu maquina.
+🔹 **IMAGEN**: Imagen ilustrativa, puedes guiarte con la imagen para saber sobre tu maquina.
 
-🔹 Archivos de flasheo, estos archivos (.bin/.hex) denen ser flasheados a la impresora
+🔹 **FIRMWARE**: Archivos de flasheo, estos archivos (.bin/.hex) deben ser flasheados a la impresora
 
 </div>
 
@@ -31,7 +31,7 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 
 <div align="center">
 
-| Archivo | Maquina | Imagen | Firmware |
+| ARCHIVO | MAQUINA | IMAGEN | FIRMWARE |
 |---------|--------|----------|--------------|
 | [`Descarga CFG`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://http2.mlstatic.com/D_NQ_NP_753052-MLA44569706228_012021-O.webp" width="125"> |
 | [`Descarga CFG`](CFG/printer-adimlab-2018.cfg) | Adimlab 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/adimlab.jpg" width="125"> | 
