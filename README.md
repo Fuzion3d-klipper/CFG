@@ -1,4 +1,4 @@
-# Klipper en tu imprsora 3D,..!!
+# Klipper en tu impresora 3D,..!!
 
 ![Logo](imag/logobanner.png)
 
