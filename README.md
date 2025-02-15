@@ -62,10 +62,10 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga CFG`](CFG/printer-creality-ender3pro-2020.cfg) | Ender 3 Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/3pro.jpg" width="125"> |  [`pronto`](pronto)
 | [`Descarga CFG`](CFG/anycubic-kobra-max-trygorilla.cfg) | Anycubic Kobra Max Trygorilla | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kobramax.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/anycubic-kobra-max-trygorilla.bin)
 | [`Descarga CFG`](CFG/printer_hellbot_magna_se_32.cfg) | Hellbot Magna SE 32 Bits | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/se32.png" width="125"> |  [`Descarga Firmware 1`](Firmware/hellbot_m_se_32.bin)[`Descarga Firmware 2`](Firmware/hellbot_m_se_32_2.bin)
-| [`Descarga CFG`](CFG/printer-creality-ender5-2019.cfg) | Ender 5 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender5.jpg" width="125"> |  [`pronto`](pronto)
-| [`Descarga CFG`](CFG/printer-creality-ender5-s1-2023.cfg) | Ender 5 s1 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender5s1.jpg" width="125"> |  [`pronto`](pronto)
-| [`Descarga CFG`](CFG/printer-creality-ender5plus-2019.cfg) | Ender 5 Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender5plus.jpg" width="125"> |  [`pronto`](pronto)
-| [`Descarga CFG`](CFG/printer-creality-ender5pro-2020.cfg) | Ender 5 Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender5pro.jpg" width="125"> |  [`pronto`](pronto)
+| [`Descarga CFG`](CFG/printer-creality-ender5-2019.cfg) | Ender 5 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender5.jfif" width="125"> |  [`pronto`](pronto)
+| [`Descarga CFG`](CFG/printer-creality-ender5-s1-2023.cfg) | Ender 5 s1 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender5s1.jfif" width="125"> |  [`pronto`](pronto)
+| [`Descarga CFG`](CFG/printer-creality-ender5plus-2019.cfg) | Ender 5 Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender5plus.jfif" width="125"> |  [`pronto`](pronto)
+| [`Descarga CFG`](CFG/printer-creality-ender5pro-2020.cfg) | Ender 5 Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender5pro.jfif" width="125"> |  [`pronto`](pronto)
 </div>
 ## 🔧 ¿Cómo usar estos archivos?
 1. Descarga el archivo **.cfg** correspondiente a tu impresora.
