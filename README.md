@@ -18,7 +18,6 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | Archivo | Maquina | Imagen | Firmware |
 |---------|--------|----------|--------------|
 | [`Descarga CFG`](CFG/printer-anet-a8-2017.cfg) | Anet A8 2017 | <img src="https://http2.mlstatic.com/D_NQ_NP_753052-MLA44569706228_012021-O.webp" width="125"> |
-| [`Descarga CFG`](CFG/anycubic-kobra-max-trygorilla.cfg) | Anycubic Kobra Max Trygorilla | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kobramax.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/anycubic-kobra-max-trygorilla.bin) 
 | [`Descarga CFG`](CFG/printer-adimlab-2018.cfg) | Adimlab 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/adimlab.jpg" width="125"> | 
 | [`Descarga CFG`](CFG/printer-alfawise-u30-2018.cfg) | AlfaWise U30 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/alfawiseu30.jpg" width="125"> |
 | [`Descarga CFG`](CFG/printer-anet-a4-2018.cfg) | Anet A4 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/aneta4.jpg" width="125"> |
@@ -27,6 +26,7 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga CFG`](CFG/printer-anet-e16-2019.cfg) | Anet E16 2019 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/anete16.jpg" width="125"> |
 | [`Descarga CFG`](CFG/printer-anycubic-4max-2018.cfg) | Anycubic 4Max 2018 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4max2018.jpg" width="125"> |
 | [`Descarga CFG`](CFG/printer-anycubic-4maxpro-2.0-2021.cfg) | Anycubic 4Max Pro 2.0 2021 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/4maxpro.jpg" width="125"> |
+| [`Descarga CFG`](CFG/anycubic-kobra-max-trygorilla.cfg) | Anycubic Kobra Max Trygorilla | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kobramax.jpg" width="125"> |  [`Descarga Firmware.bin`](Firmware/anycubic-kobra-max-trygorilla.bin) 
 | [`Descarga CFG`](CFG/printer-anycubic-i3-mega-2017.cfg) | I3 Mega 2017 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/i3mega2017.jpg" width="125"> |
 | [`Descarga CFG`](CFG/printer-anycubic-kobra-go-2022.cfg) | Anycubyc Kobra Go | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kobrago.jpg" width="125"> |
 | [`Descarga CFG`](CFG/printer-anycubic-kobra-plus-2022.cfg) | Anycubyc Kobra Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/kobraplus.jpg" width="125"> |
