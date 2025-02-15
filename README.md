@@ -29,42 +29,6 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 
 </div>
 
-# DISCLAIMER
-
-El presente repositorio tiene como propósito proporcionar documentación y guías para la instalación, configuración y uso del software **Klipper** en impresoras 3D. El uso de este repositorio y el software **Klipper** están sujetos a las siguientes condiciones:
-
-## 1. Uso bajo su propio riesgo:
-
-La instalación y el uso del software **Klipper** son realizados bajo el propio riesgo del usuario. El propietario de este repositorio no asume ninguna responsabilidad por daños directos, indirectos, incidentales, especiales o consecuentes, incluidos, entre otros, la pérdida de datos, daños al hardware, o cualquier otra pérdida derivada del uso o la imposibilidad de uso del software.
-
-## 2. Precauciones y riesgos asociados:
-
-La instalación y configuración incorrecta de **Klipper** pueden resultar en la pérdida de funcionalidad o daños permanentes en el hardware de la impresora 3D o dispositivos asociados. El usuario debe verificar la compatibilidad de su hardware y software antes de proceder con la instalación.
-
-## 3. Compatibilidad:
-
-Este repositorio no garantiza que **Klipper** sea compatible con todas las impresoras 3D, controladores o plataformas. La responsabilidad de verificar la compatibilidad y la funcionalidad del software recae en el usuario. El propietario de este repositorio no proporciona soporte técnico directo.
-
-## 4. Modificaciones y personalizaciones:
-
-El usuario tiene la libertad de modificar y personalizar el software **Klipper** bajo su propia responsabilidad. Cualquier modificación o alteración del software o hardware que cause fallos en el funcionamiento, daños a los dispositivos o pérdida de datos es responsabilidad exclusiva del usuario.
-
-## 5. No se proporciona soporte:
-
-El propietario de este repositorio no proporciona soporte técnico, asistencia o asesoría directa para la instalación o uso del software **Klipper**. Cualquier problema técnico debe ser resuelto a través de los canales oficiales de soporte de **Klipper** o mediante la consulta de foros y comunidades especializadas.
-
-## 6. Exclusión de garantías:
-
-**Klipper** y el contenido de este repositorio se proporcionan "tal cual", sin ninguna garantía expresa o implícita de ningún tipo, incluyendo, pero no limitándose a, garantías implícitas de comerciabilidad o adecuación para un propósito particular. El propietario de este repositorio no garantiza que el software sea libre de errores, seguro o funcional en todos los entornos o configuraciones.
-
-## 7. Cumplimiento con leyes locales:
-
-El usuario se compromete a cumplir con todas las leyes y regulaciones locales, nacionales e internacionales aplicables al uso de **Klipper** y a la modificación de hardware, incluida la protección de propiedad intelectual, patentes y regulaciones de seguridad de dispositivos.
-
----
-
-Al acceder a este repositorio, el usuario acepta las condiciones aquí expuestas. Si no está de acuerdo con los términos y condiciones, debe abstenerse de utilizar el repositorio y las guías contenidas en él.
-
 
 
 <div align="center">
@@ -132,7 +96,42 @@ Al acceder a este repositorio, el usuario acepta las condiciones aquí expuestas
 3. Modifica los parámetros según tus necesidades específicas.
 4. Sube el archivo a tu impresora y reinicia.
 
-## 📢 Contribuciones
+# DISCLAIMER
+
+El presente repositorio tiene como propósito proporcionar documentación y guías para la instalación, configuración y uso del software **Klipper** en impresoras 3D. El uso de este repositorio y el software **Klipper** están sujetos a las siguientes condiciones:
+
+## 1. Uso bajo su propio riesgo:
+
+La instalación y el uso del software **Klipper** son realizados bajo el propio riesgo del usuario. El propietario de este repositorio no asume ninguna responsabilidad por daños directos, indirectos, incidentales, especiales o consecuentes, incluidos, entre otros, la pérdida de datos, daños al hardware, o cualquier otra pérdida derivada del uso o la imposibilidad de uso del software.
+
+## 2. Precauciones y riesgos asociados:
+
+La instalación y configuración incorrecta de **Klipper** pueden resultar en la pérdida de funcionalidad o daños permanentes en el hardware de la impresora 3D o dispositivos asociados. El usuario debe verificar la compatibilidad de su hardware y software antes de proceder con la instalación.
+
+## 3. Compatibilidad:
+
+Este repositorio no garantiza que **Klipper** sea compatible con todas las impresoras 3D, controladores o plataformas. La responsabilidad de verificar la compatibilidad y la funcionalidad del software recae en el usuario. El propietario de este repositorio no proporciona soporte técnico directo.
+
+## 4. Modificaciones y personalizaciones:
+
+El usuario tiene la libertad de modificar y personalizar el software **Klipper** bajo su propia responsabilidad. Cualquier modificación o alteración del software o hardware que cause fallos en el funcionamiento, daños a los dispositivos o pérdida de datos es responsabilidad exclusiva del usuario.
+
+## 5. No se proporciona soporte:
+
+El propietario de este repositorio no proporciona soporte técnico, asistencia o asesoría directa para la instalación o uso del software **Klipper**. Cualquier problema técnico debe ser resuelto a través de los canales oficiales de soporte de **Klipper** o mediante la consulta de foros y comunidades especializadas.
+
+## 6. Exclusión de garantías:
+
+**Klipper** y el contenido de este repositorio se proporcionan "tal cual", sin ninguna garantía expresa o implícita de ningún tipo, incluyendo, pero no limitándose a, garantías implícitas de comerciabilidad o adecuación para un propósito particular. El propietario de este repositorio no garantiza que el software sea libre de errores, seguro o funcional en todos los entornos o configuraciones.
+
+## 7. Cumplimiento con leyes locales:
+
+El usuario se compromete a cumplir con todas las leyes y regulaciones locales, nacionales e internacionales aplicables al uso de **Klipper** y a la modificación de hardware, incluida la protección de propiedad intelectual, patentes y regulaciones de seguridad de dispositivos.
+
+---
+
+Al acceder a este repositorio, el usuario acepta las condiciones aquí expuestas. Si no está de acuerdo con los términos y condiciones, debe abstenerse de utilizar el repositorio y las guías contenidas en él.
+
 
 
 Si tienes una configuración optimizada que quieras compartir, ¡envía un **Pull Request**! Todas las contribuciones son bienvenidas. 🛠️💡
