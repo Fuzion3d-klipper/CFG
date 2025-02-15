@@ -13,13 +13,18 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 🔹 Documentación para facilitar la implementación.
 
 
-<div align="center"> ## 🛠️ Descripcion del siguiente listado LEER
+<div align="center">
+
+ ## 🛠️ Descripcion del siguiente listado LEER
 
 🔹 Archivos **.cfg** para distintas impresoras 3D, estos deben ser renombrado a "printer.cfg" y colocarlos en su lugar
+
+🔹 Nombre y modelo de maquina, guiate con esto para encontrar tu maquina
 
 🔹 Imagen ilustrativa, puedes guiarte con la imagen para saber sobre tu maquina.
 
 🔹 Archivos de flasheo, estos archivos (.bin/.hex) denen ser flasheados a la impresora
+
 </div>
 
 
