@@ -81,8 +81,8 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga CFG`](CFG/printer-creality-ender5-2019.cfg) | Ender 5 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender5.jfif" width="125"> |  [`pronto`](pronto)
 | [`Descarga CFG`](CFG/printer-creality-ender5-s1-2023.cfg) | Ender 5 s1 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender5s1.jfif" width="125"> |  [`pronto`](pronto)
 | [`Descarga CFG`](CFG/printer-creality-ender5plus-2019.cfg) | Ender 5 Plus | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender5plus.jfif" width="125"> |  [`pronto`](pronto)
-| [`Descarga CFG`](CFG/printer-creality-ender5pro-2020.cfg) | Ender 5 Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender5pro.jfif" width="125"> |  [`pronto`](pronto)
-| [`Descarga CFG`](CFG/printer-creality-ender6-2020.cfg) | Ender 6 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender6.jfif" width="125"> |  [`pronto`](pronto)
+| [`Descarga CFG`](CFG/printer-creality-ender5pro-2020.cfg) | Ender 5 Pro | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender5pro.jfif" width="125"> | [`Descarga Firmware`](Firmware/ender5pro.bin)
+| [`Descarga CFG`](CFG/printer-creality-ender6-2020.cfg) | Ender 6 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/ender6.jfif" width="125"> | [`Descarga Firmware`](Firmware/ender6.bin)
 | [`Descarga CFG`](CFG/printer-creality-sermoonD1-2021.cfg) | Sermoon D1 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/sermoond1.jfif" width="125"> |  [`Descarga Firmware`](Firmware/Sermoon_D1.bin)
 
 </div>
