@@ -106,7 +106,7 @@ Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usar, 
 
 
 
-<details>
+
   <summary><strong>DISCLAIMER</strong></summary>
 
   El presente repositorio tiene como propósito proporcionar documentación y guías para la instalación, configuración y uso del software Klipper en impresoras 3D. El uso de este repositorio y el software Klipper están sujetos a las siguientes condiciones:  
@@ -133,4 +133,7 @@ Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usar, 
   El usuario se compromete a cumplir con todas las leyes y regulaciones locales, nacionales e internacionales aplicables al uso de Klipper y a la modificación de hardware, incluida la protección de propiedad intelectual, patentes y regulaciones de seguridad de dispositivos.  
 
   Al acceder a este repositorio, el usuario acepta las condiciones aquí expuestas. Si no está de acuerdo con los términos y condiciones, debe abstenerse de utilizar el repositorio y las guías contenidas en él.  
-</details>
+
+
+
+
