@@ -88,11 +88,14 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 | [`Descarga CFG`](CFG/printer-creality-sermoonD1-2021.cfg) | Sermoon D1 | <img src="https://github.com/Fuzion3d-klipper/CFG/blob/main/imag/sermoond1.jfif" width="125"> |  [`Descarga Firmware`](Firmware/Sermoon_D1.bin)
 
 </div>
-## 🔧 ¿Cómo usar estos archivos?
-- 1. Descarga el archivo **.cfg** correspondiente a tu impresora.
-- 2. Cópialo en **Mainsail/Fluidd** → `printer.cfg`
-- 3. Modifica los parámetros según tus necesidades específicas.
-- 4. Sube el archivo a tu impresora y reinicia.
+
+## 🔧 ¿Cómo usar estos archivos?  
+
+1. Descarga el archivo **.cfg** correspondiente a tu impresora.  
+2. Cópialo en **Mainsail/Fluidd** → `printer.cfg`  
+3. Modifica los parámetros según tus necesidades específicas.  
+4. Sube el archivo a tu impresora y reinicia.  
+
 
 # DISCLAIMER
 
