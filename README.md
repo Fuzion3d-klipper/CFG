@@ -97,10 +97,9 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 4. Sube el archivo a tu impresora y reinicia.  
 
 
-<sub>
+<sup>DISCLAIMER</sup>  
 
-### DISCLAIMER  
-
+<sub>  
 El presente repositorio tiene como propósito proporcionar documentación y guías para la instalación, configuración y uso del software Klipper en impresoras 3D. El uso de este repositorio y el software Klipper están sujetos a las siguientes condiciones:  
 
 **1. Uso bajo su propio riesgo:**  
@@ -119,14 +118,7 @@ El usuario tiene la libertad de modificar y personalizar el software Klipper baj
 El propietario de este repositorio no proporciona soporte técnico, asistencia o asesoría directa para la instalación o uso del software Klipper. Cualquier problema técnico debe ser resuelto a través de los canales oficiales de soporte de Klipper o mediante la consulta de foros y comunidades especializadas.  
 
 **6. Exclusión de garantías:**  
-Klipper y el contenido de este repositorio se proporcionan "tal cual", sin ninguna garantía expresa o implícita de ningún tipo, incluyendo, pero no limitándose a, garantías implícitas de comerciabilidad o adecuación para un propósito particular. El propietario de este repositorio no garantiza que el software sea libre de errores, seguro o funcional en todos los entornos o configuraciones.  
-
-**7. Cumplimiento con leyes locales:**  
-El usuario se compromete a cumplir con todas las leyes y regulaciones locales, nacionales e internacionales aplicables al uso de Klipper y a la modificación de hardware, incluida la protección de propiedad intelectual, patentes y regulaciones de seguridad de dispositivos.  
-
-Al acceder a este repositorio, el usuario acepta las condiciones aquí expuestas. Si no está de acuerdo con los términos y condiciones, debe abstenerse de utilizar el repositorio y las guías contenidas en él.  
-
-</sub>
+Klipper y el contenido de este repositorio se proporcionan "tal cual", sin ninguna garantía expresa o implícita de ningún tipo, incluyendo, pero no limitándose a, 
 
 
 
