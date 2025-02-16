@@ -97,7 +97,20 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 4. Sube el archivo a tu impresora y reinicia.  
 
 
+<a href="https://www.buymeacoffee.com/fuzion3d"><img src="https://img.buymeacoffee.com/button-api/?text=Apoya al creador&emoji=&slug=fuzion3d&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 
+## 🔗 Recursos y Créditos
+- 📄 [Documentación oficial de Klipper](https://www.klipper3d.org/)
+- 💬 Soporte en [Klipperianos Whatsapp](https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT)
+
+## 📢 Conéctate conmigo 📢
+
+- 🔗 **TikTok:** [Fuzion3D](https://www.tiktok.com/@fuzion3d)
+- 📸 **Instagram:** [Fuzion3D Crea](https://www.instagram.com/fuzion3dcrea)
+- 🎥 **YouTube:** [Fuzion3D Crea](https://youtube.com/@fuzion3dcrea)
+- 💬 **WhatsApp:** [Klipperianos Whatsapp](https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT)
+
+Si encuentras útil esta macro, ⭐ ¡dale una estrella a este repositorio en GitHub! 🚀
 
 ## 📜 Licencia
 Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usar, modificar y distribuir estos archivos libremente. 🔓
