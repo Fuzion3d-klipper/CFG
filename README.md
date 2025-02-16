@@ -97,6 +97,15 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 4. Sube el archivo a tu impresora y reinicia.  
 
 
+
+
+## 📜 Licencia
+Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usar, modificar y distribuir estos archivos libremente. 🔓
+
+🚀 ¡Feliz impresión! 🎨🔥
+
+
+
 <sup>DISCLAIMER</sup>  
 
 <sub>  
@@ -121,12 +130,4 @@ El propietario de este repositorio no proporciona soporte técnico, asistencia o
 Klipper y el contenido de este repositorio se proporcionan "tal cual", sin ninguna garantía expresa o implícita de ningún tipo, incluyendo, pero no limitándose a, 
 
 
-
-
-Si tienes una configuración optimizada que quieras compartir, ¡envía un **Pull Request**! Todas las contribuciones son bienvenidas. 🛠️💡
-
-## 📜 Licencia
-Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usar, modificar y distribuir estos archivos libremente. 🔓
-
-🚀 ¡Feliz impresión! 🎨🔥
 
