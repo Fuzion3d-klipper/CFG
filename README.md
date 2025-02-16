@@ -89,12 +89,10 @@ Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aq
 
 </div>
 ## 🔧 ¿Cómo usar estos archivos?
-1. Descarga el archivo **.cfg** correspondiente a tu impresora.
-2. Cópialo en la ubicación adecuada según tu firmware:
-   - **Marlin** → `Marlin/Configuration.h`
-   - **Klipper** → `printer.cfg`
-3. Modifica los parámetros según tus necesidades específicas.
-4. Sube el archivo a tu impresora y reinicia.
+- 1. Descarga el archivo **.cfg** correspondiente a tu impresora.
+- 2. Cópialo en **Mainsail/Fluidd** → `printer.cfg`
+- 3. Modifica los parámetros según tus necesidades específicas.
+- 4. Sube el archivo a tu impresora y reinicia.
 
 # DISCLAIMER
 
