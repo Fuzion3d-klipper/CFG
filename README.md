@@ -1,6 +1,6 @@
 # Klipper en tu impresora 3D,..!!
 
-![Logo](imag/logobanner.png)
+![Logo](imag/logobanner.jpg)
 
 ## 📌 Descripción
 Bienvenido a este repositorio de configuraciones **.cfg** para impresoras 3D. Aquí encontrarás archivos de configuración optimizados para diferentes modelos, firmwares y necesidades de impresión. Cada archivo ha sido probado para garantizar estabilidad y rendimiento en la impresión.
